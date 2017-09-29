@@ -60,6 +60,7 @@ $route['i/(:any)'] = 'golf';
 $route['i/(:any)/(:any)'] = 'golf';
 //link /i/need/a/hobby
 $route['i/(:any)/(:any)/(:any)'] = 'golf';
+$route['foxtrot'] = 'tango';
 
 
 
