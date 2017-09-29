@@ -9,7 +9,6 @@ class Golf extends Application
 		parent::__construct();
 	}
 
-
 	public function index()
 	{
 		$this->show(6);

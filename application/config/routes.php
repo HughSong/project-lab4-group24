@@ -55,3 +55,5 @@ $route['translate_uri_dashes'] = FALSE;
 $route['i/(:any)/(:any)/(:any)'] = 'golf';
 $route['i/(:any)/(:any)'] = 'golf';
 $route['i/(:any)'] = 'golf';
+$route['i'] = 'golf';
+
